@@ -2,7 +2,7 @@
 
 An interactive web application built to audit user interface (UI) copy and checkout flows for deceptive design patterns (dark patterns). Designed with a focus on human-computer interaction (HCI) and user autonomy, this tool evaluates deceptive practices using a severity-weighted scoring system.
 
-Try the live app here: 
+Try the live app here: https://deceptive-design-detector-eqyreqpuefuzkwarzsgcyr.streamlit.app/
 
  Features
 
